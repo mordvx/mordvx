@@ -1,4 +1,5 @@
-## Hi there 👋
+## Noob coder here ✌
+https://roadmap.sh/card/tall/685e5b7c0cc2e57e0f774c34?variant=dark&roadmaps=python%2Ccomputer-science%2Clinux%2Cgit-github
 
 <!--
 **mordvx/mordvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
